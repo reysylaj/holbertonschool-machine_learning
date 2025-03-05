@@ -5,6 +5,7 @@ of passengers
 """
 import requests
 
+
 def availableShips(passengerCount):
     """
     Returns the list of ships that can hold a given number of passengers
